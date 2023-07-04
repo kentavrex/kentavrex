@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">A passionate backend developer from St. Petersburg ☔️</h3>
 <h3 align="center">Selectel - python backend developer</h3>
-<h3 align="center">ITMO university - software engineering studenf</h3>
+<h3 align="center">ITMO university - software engineering student</h3>
 
 ## 📘 &nbsp;My toolbox
 <p align="left"> 
