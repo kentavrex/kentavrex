@@ -5,7 +5,7 @@
 
 ### About me
 - 💻 I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
-- 📚 And studying as a CSE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
+- 📚 And studying as a SWE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
 - 📃 Know about my experiences [Resume](CV_TO_UPDATE.pdf)
 
 ### Languages and hard skills
@@ -14,8 +14,8 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/start/" target="_blank"> <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
