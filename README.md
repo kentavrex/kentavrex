@@ -4,11 +4,9 @@
 <h3 align="center">A passionate backend developer from St. Petersburg ☔️</h3>
 
 ### About me
-- Selectel - python backend developer
-- ITMO university - software engineering student
-- I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
-- I'm currently studying as a CSE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
-- My [resume](CV_TO_UPDATE.pdf)
+- 💻 I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
+- 📚I'm currently studying as a CSE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
+- 📝 Know about my experiences [Resume](CV_TO_UPDATE.pdf)
 
 ### Languages and hard skills
 <p align="left"> 
