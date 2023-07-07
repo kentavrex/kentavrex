@@ -6,9 +6,11 @@
 ### About me
 - Selectel - python backend developer
 - ITMO university - software engineering student
+- I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
+- I'm currently studying as a CSE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
+- My [resume](CV_TO_UPDATE.pdf)
 
-
-### My toolbox
+### Languages and hard skills
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -20,4 +22,12 @@
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
+
+### Contacts
+<p align="left">
+    <a href="https://t.me/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="tg" width="40" height="40"/> </a>
+    <a href="https://www.instagram.com/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="inst" width="40" height="40"/> </a>
+    <a href="https://www.linkedin.com/in/amir-khanov-03a91a282" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/> </a> 
+    <a href="mailto:darlycerher@gmail.com" target="_blank"> <img src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png" alt="mail" width="40" height="40"/> </a>
 </p>
