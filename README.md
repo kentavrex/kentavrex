@@ -5,8 +5,8 @@
 
 ### About me
 - 💻 I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
-- 📚I'm currently studying as a CSE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
-- 📝 Know about my experiences [Resume](CV_TO_UPDATE.pdf)
+- 📚 And studying as a CSE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
+- 📃 Know about my experiences [Resume](CV_TO_UPDATE.pdf)
 
 ### Languages and hard skills
 <p align="left"> 
