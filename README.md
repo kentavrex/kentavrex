@@ -16,6 +16,7 @@
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/start/" target="_blank"> <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/179px-NumPy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/768px-SQLAlchemy.svg.png?20230620231936" alt="postgresql" width="40" height="40"/> </a>
