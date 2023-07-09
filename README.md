@@ -3,12 +3,12 @@
 </p>
 <h3 align="center">A passionate backend developer from St. Petersburg ☔️</h3>
 
-### About me
+## About me
 - 💻 I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
 - 📚 And studying as a SWE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
 - 📃 Know about my experiences [Resume](https://drive.google.com/file/d/1kyoK_BCNMJPzfLdRecMpylhnKz5ANnnf/view?usp=sharing)
 
-### Languages and hard skills
+## Languages and hard skills
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -26,7 +26,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-### Contacts
+## Contacts
 <p align="left">
     <a href="https://t.me/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="tg" width="36" /> </a>
     <a href="https://www.instagram.com/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="inst" width="36"/> </a>
