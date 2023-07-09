@@ -16,6 +16,7 @@
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/start/" target="_blank"> <img src="https://www.svgrepo.com/show/349341/djangoproject.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://docs.pytest.org/en/7.4.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/200px-Pytest_logo.svg.png" alt="pytest" width="40" height="40"/> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/> </a>
     <a href="https://min.io" target="_blank"> <img src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="S3 minio" width="20" height="40"/> </a>
