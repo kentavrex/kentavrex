@@ -28,8 +28,8 @@
 
 ### Contacts
 <p align="left">
-    <a href="https://t.me/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="tg" width="40" height="40"/> </a>
-    <a href="https://www.instagram.com/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="inst" width="40" height="40"/> </a>
-    <a href="https://www.linkedin.com/in/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="40" height="40"/> </a> 
-    <a href="mailto:darlycerher@gmail.com" target="_blank"> <img src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png" alt="mail" width="40" height="40"/> </a>
+    <a href="https://t.me/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="tg" width="36" /> </a>
+    <a href="https://www.instagram.com/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="inst" width="36"/> </a>
+    <a href="https://www.linkedin.com/in/kentavrex" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="36"/> </a> 
+    <a href="mailto:darlycerher@gmail.com" target="_blank"> <img src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png" alt="mail" width="36"/> </a>
 </p>
