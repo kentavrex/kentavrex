@@ -6,7 +6,7 @@
 ## About me
 - 💻 I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
 - 📚 And studying as a SWE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
-- 📃 Know about my experiences [Resume](https://drive.google.com/file/d/1kyoK_BCNMJPzfLdRecMpylhnKz5ANnnf/view?usp=sharing)
+- 📃 Know about my experiences [Resume](https://drive.google.com/file/d/1Pj2LPkdFxyaEA4c_LBKB64oxHulBeiCC/view?usp=sharing)
 
 ## Languages and hard skills
 <p align="left"> 
