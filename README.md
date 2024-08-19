@@ -35,7 +35,7 @@
 
 [<img align="left" alt="Netbox"      width="40px" src="https://github.com/netbox-community/netbox/wiki/images/logos/netbox_icon.svg" />][netbox]
 [<img align="left" alt="Celery"      width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" />][celery]
-[<img align="left" alt="Rabbitmq"    width="35px" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" />][rabbitmq]
+[<img align="left" alt="Rabbitmq"    width="40px" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" />][rabbitmq]
 [<img align="left" alt="Git"         width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />][git]
 [<img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
 [<img align="left" alt="GitLab"      width="40px" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" />][gitlab]
