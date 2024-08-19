@@ -34,6 +34,8 @@
 <br /><br />
 
 [<img align="left" alt="Netbox"      width="40px" src="https://github.com/netbox-community/netbox/wiki/images/logos/netbox_icon.svg" />][netbox]
+[<img align="left" alt="Celery"      width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" />][celery]
+[<img align="left" alt="Rabbitmq"    width="35px" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" />][rabbitmq]
 [<img align="left" alt="Git"         width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />][git]
 [<img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
 [<img align="left" alt="GitLab"      width="40px" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" />][gitlab]
@@ -52,29 +54,57 @@
 
 
 <!-- Links to my pages -->
+
 [instagram]: https://www.instagram.com/kentavrex
+
 [telegram]: https://t.me/kentavrex
+
 [linkedin]: https://www.linkedin.com/in/kentavrex
+
 [email]: mailto:darlycerher@gmail.com
 
 <!-- Links to tools and languages -->
+
 [go]: https://go.dev/
+
 [java]: https://www.java.com/
+
 [python]: https://www.python.org/
+
 [fastapi]: https://fastapi.tiangolo.com/
+
 [flask]: https://flask.palletsprojects.com/
+
 [pandas]: https://pandas.pydata.org/
+
 [kotlin]: https://kotlinlang.org/
+
 [csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
+
 [postrgres]: https://www.postgresql.org/
+
 [redis]: https://redis.io/
+
 [s3]: https://aws.amazon.com/ru/s3/
+
 [minio]: https://min.io/
+
 [sqlalchemy]: https://www.sqlalchemy.org/
+
 [netbox]: https://docs.netbox.dev/en/stable/
+
 [zabbix]: https://www.zabbix.com/
+
+[celery]: https://docs.celeryq.dev/
+
+[rabbitmq]: https://www.rabbitmq.com/
+
 [git]: https://git-scm.com/
+
 [github]: https://github.com/
+
 [gitlab]: https://about.gitlab.com/
+
 [bash]: https://www.gnu.org/software/bash/
+
 [docker]: https://www.docker.com/
