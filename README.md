@@ -20,7 +20,7 @@
 [<img align="left" alt="Kotlin"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
 [<img align="left" alt="C#"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][csharp]
 [<img align="left" alt="FastApi"  width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />][fastapi]
-[<img align="left" alt="Flask"    width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />][flask]
+[<img align="left" alt="Flask"    width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/920px-Flask_logo.svg.png" />][flask]
 [<img align="left" alt="Pandas"   width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png" />][pandas]
 
 <br/><br/>
