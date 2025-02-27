@@ -5,10 +5,9 @@
 
 ## About me
 
-- 💻 I'm currently working as a Python backend developer at [Selectel](https://selectel.ru/)
-- 📚 And studying as a SWE at the [ITMO university](https://abit.itmo.ru/program/bachelor/neurotechnologies)
-- 📃 Know about my
-  experiences [Resume](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F0aIkXFdVATdmMgGl29PAjF8P7Uxv3s17CppLNlZbfBuO13PChKbggVlZhTkDSM5%2Fq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=CV.pdf)
+- 💻 I'm currently working as a Python backend developer at Tochka Bank
+- 📚 Studying as a SWE at the ITMO university
+- 📃 My resume [Resume](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F0aIkXFdVATdmMgGl29PAjF8P7Uxv3s17CppLNlZbfBuO13PChKbggVlZhTkDSM5%2Fq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=CV.pdf)
 
 <br />
 
