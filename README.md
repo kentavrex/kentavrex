@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi-I'm Amir!-blue?style=for-the-badge&logo=github" alt="Greeting Badge" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=200&section=header&text=Hi,%20I'm%20Amir!%20&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+
 
 <h2 align="center">Backend Developer from St. Petersburg ☔️</h2>
 <p align="center">
@@ -21,7 +22,7 @@
   <img
     align="left"
     alt="Python"
-    width="50px"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -31,7 +32,7 @@
   <img
     align="left"
     alt="Go"
-    width="55px"
+    width="43px"
     src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -41,7 +42,7 @@
   <img
     align="left"
     alt="Java"
-    width="50px"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -51,7 +52,7 @@
   <img
     align="left"
     alt="Kotlin"
-    width="50px" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -61,7 +62,7 @@
   <img
     align="left"
     alt="C#"
-    width="50px"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -71,7 +72,7 @@
   <img
     align="left"
     alt="FastApi"
-    width="50px"
+    width="40px"
     src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -81,7 +82,7 @@
   <img
     align="left"
     alt="Flask"
-    width="105px"
+    width="80px"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/920px-Flask_logo.svg.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -91,8 +92,8 @@
   <img
     align="left"
     alt="Pandas"
-    width="50px"
-    height="50px"
+    width="40px"
+    height="40px"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -105,7 +106,7 @@
   <img
     align="left"
     alt="PostgreSQL"
-    width="50px"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -115,7 +116,7 @@
   <img
     align="left"
     alt="Redis"
-    width="50px"
+    width="40px"
     src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -125,8 +126,8 @@
   <img
     align="left"
     alt="SQLAlchemy"
-    width="80px"
-    height="50px"
+    width="50px"
+    height="40px"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/768px-SQLAlchemy.svg.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -136,7 +137,7 @@
   <img
     align="left"
     alt="S3"
-    width="50px"
+    width="40px"
     src="https://www.svgrepo.com/show/349587/amazon-s3.svg"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -146,8 +147,8 @@
   <img
     align="left"
     alt="MinIO"
-    width="35px"
-    height="50px"
+    width="30px"
+    height="40px"
     src="https://min.io/resources/img/logo/MINIO_Bird.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -159,7 +160,7 @@
   <img 
     align="left" 
     alt="Netbox" 
-    width="140px" 
+    width="100px" 
     src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Netbox_logo.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -169,7 +170,7 @@
   <img 
     align="left" 
     alt="Celery" 
-    width="50px" 
+    width="40px" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -179,7 +180,7 @@
   <img 
     align="left" 
     alt="Rabbitmq" 
-    width="50px" 
+    width="40px" 
     src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -189,7 +190,7 @@
   <img 
     align="left" 
     alt="Git" 
-    width="50px" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -199,7 +200,7 @@
   <img 
     align="left" 
     alt="GitHub" 
-    width="50px" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -209,7 +210,7 @@
   <img 
     align="left" 
     alt="GitLab" 
-    width="53px" 
+    width="42px" 
     src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -219,7 +220,7 @@
   <img 
     align="left" 
     alt="Bash" 
-    width="50px" 
+    width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
@@ -229,7 +230,7 @@
   <img 
     align="left" 
     alt="Docker" 
-    width="50px" 
+    width="40px" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
