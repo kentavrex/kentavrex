@@ -1,7 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Amir!;Explore+my+official+profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://img.shields.io/badge/Hi-I'm Amir!-blue?style=for-the-badge&logo=github" alt="Greeting Badge" />
 </p>
-<h3 align="center">A passionate backend developer from St. Petersburg ☔️</h3>
+
+<h2 align="center">Backend Developer from St. Petersburg ☔️</h2>
+<p align="center">
+  <em>Writing clean code & sipping ☕️</em>
+</p>
 
 ## About me
 
@@ -13,33 +17,225 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="Python"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />][python]
-[<img align="left" alt="Go"       width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />][Go]
-[<img align="left" alt="Java"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][java]
-[<img align="left" alt="Kotlin"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
-[<img align="left" alt="C#"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][csharp]
-[<img align="left" alt="FastApi"  width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />][fastapi]
-[<img align="left" alt="Flask"    width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/920px-Flask_logo.svg.png" />][flask]
-[<img align="left" alt="Pandas"   width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png" />][pandas]
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Python"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://go.dev" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Go"
+    width="55px"
+    src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Java"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Kotlin"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="C#"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="FastApi"
+    width="50px"
+    src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Flask"
+    width="105px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/920px-Flask_logo.svg.png"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://pandas.pydata.org" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Pandas"
+    width="50px"
+    height="50px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
 
 <br/><br/>
+<div style="clear: both;"></div>
 
-[<img align="left" alt="PostgreSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />][postrgres]
-[<img align="left" alt="Redis"       width="40px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />][redis]
-[<img align="left" alt="SQLAlchemy"  width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/768px-SQLAlchemy.svg.png" />][sqlalchemy]
-[<img align="left" alt="S3"          width="40px" src="https://www.svgrepo.com/show/349587/amazon-s3.svg" />][s3]
-[<img align="left" alt="MinIO"       width="20px" height="40" src="https://min.io/resources/img/logo/MINIO_Bird.png" />][minio]
+<a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="PostgreSQL"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
 
-<br /><br />
+<a href="https://redis.io" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="Redis"
+    width="50px"
+    src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
 
-[<img align="left" alt="Netbox"      width="40px" src="https://github.com/netbox-community/netbox/wiki/images/logos/netbox_icon.svg" />][netbox]
-[<img align="left" alt="Celery"      width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" />][celery]
-[<img align="left" alt="Rabbitmq"    width="40px" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" />][rabbitmq]
-[<img align="left" alt="Git"         width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />][git]
-[<img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
-[<img align="left" alt="GitLab"      width="40px" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" />][gitlab]
-[<img align="left" alt="Bash"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][bash]
-[<img align="left" alt="Docker"      width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
+<a href="https://www.sqlalchemy.org" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="SQLAlchemy"
+    width="80px"
+    height="50px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/768px-SQLAlchemy.svg.png"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="S3"
+    width="50px"
+    src="https://www.svgrepo.com/show/349587/amazon-s3.svg"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://min.io" target="_blank" rel="noopener noreferrer">
+  <img
+    align="left"
+    alt="MinIO"
+    width="35px"
+    height="50px"
+    src="https://min.io/resources/img/logo/MINIO_Bird.png"
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<div style="clear: both;"></div>
+
+<a href="https://netbox.dev" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Netbox" 
+    width="140px" 
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Netbox_logo.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://docs.celeryproject.org" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Celery" 
+    width="50px" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://www.rabbitmq.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Rabbitmq" 
+    width="50px" 
+    src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Git" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://github.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="GitHub" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://gitlab.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="GitLab" 
+    width="53px" 
+    src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Bash" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Docker" 
+    width="50px" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
+  />
+</a>
+
+<div style="clear: both;"></div>
 
 <br />
 <br />
