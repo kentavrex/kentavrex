@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Amir! Backend Developer from St. Petersburg ☔️</h2>
+<h2 align="center">Backend Developer from St. Petersburg ☔️</h2>
 <p align="center">
   <em>Writing clean code & sipping ☕️</em>
 </p>
