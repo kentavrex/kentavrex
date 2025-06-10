@@ -1,9 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=200&section=header&text=Hi,%20I'm%20Amir!%20&fontSize=40&fontColor=ffffff&fontAlignY=35" />
-
-
-<h2 align="center">Backend Developer from St. Petersburg ☔️</h2>
+<h2 align="center">Hi, I'm Amir! Backend Developer from St. Petersburg ☔️</h2>
 <p align="center">
   <em>Writing clean code & sipping ☕️</em>
 </p>
@@ -153,7 +148,7 @@
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
 </a>
-
+<br/><br/>
 <div style="clear: both;"></div>
 
 <a href="https://netbox.dev" target="_blank" rel="noopener noreferrer">
