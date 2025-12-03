@@ -1,14 +1,12 @@
-<h2 align="center">Backend Developer from St. Petersburg ☔️</h2>
+<h2 align="center">Hi, I'm Amir! Backend Developer☕</h2>
 <p align="center">
   <em>Writing clean code & sipping ☕️</em>
 </p>
 
 ## About me
-
-- 💻 I'm currently working as a Python Backend Developer at Selectel
-- 📚 Studying as a SWE at the ITMO university
-- 📃 My resume [Resume](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F0aIkXFdVATdmMgGl29PAjF8P7Uxv3s17CppLNlZbfBuO13PChKbggVlZhTkDSM5%2Fq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=CV.pdf)
-
+- 💻 Currently working as a Python Backend Developer
+- 🎓 Graduated as a Software Engineer from ITMO University
+- 🚀 Constantly experimenting, improving, and having fun with code
 <br />
 
 ## Languages and Tools
@@ -137,17 +135,6 @@
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
 </a>
-
-<a href="https://min.io" target="_blank" rel="noopener noreferrer">
-  <img
-    align="left"
-    alt="MinIO"
-    width="30px"
-    height="40px"
-    src="https://min.io/resources/img/logo/MINIO_Bird.png"
-    style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
-  />
-</a>
 <br/><br/>
 <div style="clear: both;"></div>
 
@@ -250,9 +237,9 @@
 
 [telegram]: https://t.me/kentavrex
 
-[linkedin]: https://www.linkedin.com/in/kentavrex
+[linkedin]: https://www.linkedin.com/in/amir-khanov/
 
-[email]: mailto:darlycerher@gmail.com
+[email]: mailto:amirhan.0219@gmail.com
 
 <!-- Links to tools and languages -->
 
@@ -277,8 +264,6 @@
 [redis]: https://redis.io/
 
 [s3]: https://aws.amazon.com/ru/s3/
-
-[minio]: https://min.io/
 
 [sqlalchemy]: https://www.sqlalchemy.org/
 
