@@ -224,10 +224,9 @@
 <br />
 
 ## Contacts
-
+[<img align="left" alt="Email"     width="30px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png" />][email]
 [<img align="left" alt="Telegram"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" />][telegram]
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" />][instagram]
-[<img align="left" alt="Email"     width="30px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png" />][email]
 
 
 <!-- Links to my pages -->
