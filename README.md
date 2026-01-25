@@ -87,7 +87,7 @@
     alt="Pandas"
     width="40px"
     height="40px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1024px-Pandas_mark.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
 </a>
@@ -121,7 +121,7 @@
     alt="SQLAlchemy"
     width="50px"
     height="40px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/768px-SQLAlchemy.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1280px-SQLAlchemy.svg.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
 </a>
