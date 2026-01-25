@@ -76,7 +76,7 @@
     align="left"
     alt="Flask"
     width="80px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/920px-Flask_logo.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/960px-Flask_logo.svg.png"
     style="border: 1.5px solid #999; border-radius: 6px; padding: 6px; background-color: #f5f5f5; margin-right: 10px; margin-bottom: 10px;"
   />
 </a>
