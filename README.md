@@ -224,7 +224,7 @@
 <br />
 
 ## Contacts
-[<img align="left" alt="Email"     width="30px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png" />][email]
+[<img align="left" alt="Email" width="30px" src="https://cdn.simpleicons.org/gmail" />][email]
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
 
